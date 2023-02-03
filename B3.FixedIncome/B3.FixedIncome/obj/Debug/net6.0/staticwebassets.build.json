@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "LyHClC+4Q/+v88giP7pB2P8hKfmw2JaoHDodxP0QOMY=",
+  "Source": "B3.FixedIncome.Api",
+  "BasePath": "_content/B3.FixedIncome.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

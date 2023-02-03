@@ -1,0 +1,12 @@
+C:\Projetos\B3.FixedIncome\B3.FixedIncome.Domain\bin\Debug\net6.0\B3.FixedIncome.Domain.deps.json
+C:\Projetos\B3.FixedIncome\B3.FixedIncome.Domain\bin\Debug\net6.0\B3.FixedIncome.Domain.dll
+C:\Projetos\B3.FixedIncome\B3.FixedIncome.Domain\bin\Debug\net6.0\B3.FixedIncome.Domain.pdb
+C:\Projetos\B3.FixedIncome\B3.FixedIncome.Domain\obj\Debug\net6.0\B3.FixedIncome.Domain.csproj.AssemblyReference.cache
+C:\Projetos\B3.FixedIncome\B3.FixedIncome.Domain\obj\Debug\net6.0\B3.FixedIncome.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\B3.FixedIncome\B3.FixedIncome.Domain\obj\Debug\net6.0\B3.FixedIncome.Domain.AssemblyInfoInputs.cache
+C:\Projetos\B3.FixedIncome\B3.FixedIncome.Domain\obj\Debug\net6.0\B3.FixedIncome.Domain.AssemblyInfo.cs
+C:\Projetos\B3.FixedIncome\B3.FixedIncome.Domain\obj\Debug\net6.0\B3.FixedIncome.Domain.csproj.CoreCompileInputs.cache
+C:\Projetos\B3.FixedIncome\B3.FixedIncome.Domain\obj\Debug\net6.0\B3.FixedIncome.Domain.dll
+C:\Projetos\B3.FixedIncome\B3.FixedIncome.Domain\obj\Debug\net6.0\refint\B3.FixedIncome.Domain.dll
+C:\Projetos\B3.FixedIncome\B3.FixedIncome.Domain\obj\Debug\net6.0\B3.FixedIncome.Domain.pdb
+C:\Projetos\B3.FixedIncome\B3.FixedIncome.Domain\obj\Debug\net6.0\ref\B3.FixedIncome.Domain.dll

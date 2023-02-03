@@ -1,0 +1,15 @@
+C:\Projetos\B3.FixedIncome\B3.FixedIncome.Infra\bin\Debug\net6.0\B3.FixedIncome.Infra.deps.json
+C:\Projetos\B3.FixedIncome\B3.FixedIncome.Infra\bin\Debug\net6.0\B3.FixedIncome.Infra.dll
+C:\Projetos\B3.FixedIncome\B3.FixedIncome.Infra\bin\Debug\net6.0\B3.FixedIncome.Infra.pdb
+C:\Projetos\B3.FixedIncome\B3.FixedIncome.Infra\bin\Debug\net6.0\B3.FixedIncome.Domain.dll
+C:\Projetos\B3.FixedIncome\B3.FixedIncome.Infra\bin\Debug\net6.0\B3.FixedIncome.Domain.pdb
+C:\Projetos\B3.FixedIncome\B3.FixedIncome.Infra\obj\Debug\net6.0\B3.FixedIncome.Infra.csproj.AssemblyReference.cache
+C:\Projetos\B3.FixedIncome\B3.FixedIncome.Infra\obj\Debug\net6.0\B3.FixedIncome.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\B3.FixedIncome\B3.FixedIncome.Infra\obj\Debug\net6.0\B3.FixedIncome.Infra.AssemblyInfoInputs.cache
+C:\Projetos\B3.FixedIncome\B3.FixedIncome.Infra\obj\Debug\net6.0\B3.FixedIncome.Infra.AssemblyInfo.cs
+C:\Projetos\B3.FixedIncome\B3.FixedIncome.Infra\obj\Debug\net6.0\B3.FixedIncome.Infra.csproj.CoreCompileInputs.cache
+C:\Projetos\B3.FixedIncome\B3.FixedIncome.Infra\obj\Debug\net6.0\B3.FixedIncome.Infra.csproj.CopyComplete
+C:\Projetos\B3.FixedIncome\B3.FixedIncome.Infra\obj\Debug\net6.0\B3.FixedIncome.Infra.dll
+C:\Projetos\B3.FixedIncome\B3.FixedIncome.Infra\obj\Debug\net6.0\refint\B3.FixedIncome.Infra.dll
+C:\Projetos\B3.FixedIncome\B3.FixedIncome.Infra\obj\Debug\net6.0\B3.FixedIncome.Infra.pdb
+C:\Projetos\B3.FixedIncome\B3.FixedIncome.Infra\obj\Debug\net6.0\ref\B3.FixedIncome.Infra.dll

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "+Wd4bC6yughOOQd4ntK2ujSgbcaM5bpgCzxMvkGXNxnIObExcOLVycd/U6LiyXrd2WGkAYZZp4FsmSsucHOnCw==",
+  "success": true,
+  "projectFilePath": "C:\\Projetos\\B3.FixedIncome\\B3.FixedIncome.Domain\\B3.FixedIncome.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aluga.com\\.nuget\\packages\\flunt\\2.0.5\\flunt.2.0.5.nupkg.sha512",
+    "C:\\Users\\aluga.com\\.nuget\\packages\\mediatr\\11.1.0\\mediatr.11.1.0.nupkg.sha512",
+    "C:\\Users\\aluga.com\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
