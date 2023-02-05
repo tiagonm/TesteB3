@@ -1,0 +1,15 @@
+<form>
+  <label>Valor inicial:</label>
+  <input type="tel" [(ngModel)]="data.initialValue" name="valorInicial" />
+  <br>
+  
+  <label>Quantidade mês:</label>
+  <input type="tel" [(ngModel)]="data.months" name="qteMes" />
+  <br>
+
+  <button (click)="sendItem()">Enviar</button>  
+</form>
+<div *ngIf="cdb">
+    <p *ngIf="cdb.netValue">Valor Líquido: R$ {{cdb.netValue}}</p>
+    <p *ngIf="cdb.grossValue">Valor Bruto: R$ {{cdb.grossValue}}</p>
+</div>

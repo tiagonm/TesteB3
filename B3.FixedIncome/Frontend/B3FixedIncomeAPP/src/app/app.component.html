@@ -1,0 +1,10 @@
+<router-outlet></router-outlet>
+
+<div *ngIf="titulo">
+  <div class="bg-block"></div>
+  <div class="alerta">
+    <p>{{titulo}}</p>
+    <span *ngIf="subtitulo">{{subtitulo}}</span>
+    <button (click)="closeAlert()">FECHAR</button>
+  </div>
+</div>
